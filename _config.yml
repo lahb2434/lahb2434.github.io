@@ -1,11 +1,11 @@
 # Site settings
-author: Chris Houghton
-title: 
+author: Christopher R. Houghton
+title: Coding: Adventures in Confusion
 header-img: img/home-bg.png
 email: chrishoughton2434@gmail.com
-copyright_name: Chris Houghton
+copyright_name: Christopher R. Houghton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Welcome to the DEV 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lahb2434
